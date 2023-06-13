@@ -2,9 +2,9 @@
 
 **`Software Developer | MSc Computer Science Student`**
 
-🧪 I’m currently studying for an MSc Computer Science<br>
+🧪 I’m currently studying for an MSc in Computer Science<br>
 🤖 I mainly work in Python, Java and JavaScript<br>
-👯 I’m open to connect at https://www.linkedin.com/in/michaelmoyles<br>
+🤝 I’m open to connecting at https://www.linkedin.com/in/michaelmoyles<br>
 
 ---
 
