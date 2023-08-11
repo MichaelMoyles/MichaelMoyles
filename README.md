@@ -28,4 +28,4 @@
 
 ### 📊 Stats
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelmoyles&show_icons=true&theme=highcontrast) 
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelmoyles&show_icons=true&theme=highcontrast)
