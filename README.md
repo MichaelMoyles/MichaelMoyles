@@ -4,7 +4,7 @@
 
 🧪 I’m a recent graduate of an MSc in Computer Science<br>
 🤖 I enjoy taking a full stack approach to projects and finding solutions<br>
-<img align="left" alt="Dev" width="5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg"> I mainly work in Python, Java and ReactJS<br>
+<img align="left" alt="Dev" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg"> I mainly work in Python, Java and ReactJS<br>
 🤝 I’m open to connecting at https://www.linkedin.com/in/michaelmoyles<br>
 
 ---
