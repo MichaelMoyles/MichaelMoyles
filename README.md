@@ -3,7 +3,7 @@
 **`Software Developer | MSc Computer Science Graduate`**
 
 🧪 I’m a recent graduate of an MSc in Computer Science<br>
-🤖 I enjoy taking a full stack approach to projects and finding solutions<br>
+🤖 I enjoy taking a full stack approach to developing solutions<br>
 🛠️ I mainly work in Python, Java and ReactJS<br>
 🤝 I’m open to connecting at https://www.linkedin.com/in/michaelmoyles<br>
 
